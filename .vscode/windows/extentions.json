@@ -1,0 +1,22 @@
+[
+  "aaron-bond.better-comments",
+  "alefragnani.bookmarks",
+  "alefragnani.project-manager",
+  "anthropic.claude-code",
+  "esbenp.prettier-vscode",
+  "formulahendry.auto-rename-tag",
+  "github.copilot",
+  "github.copilot-chat",
+  "ms-vscode-remote.remote-wsl",
+  "openai.chatgpt",
+  "rvest.vs-code-prettier-eslint",
+  "vira.vsc-vira-theme",
+  "zhuangtongfa.material-theme",
+  "eamodio.gitlens",
+  "ms-python.debugpy",
+  "ms-python.python",
+  "ms-python.vscode-pylance",
+  "ms-python.vscode-python-envs",
+  "streetsidesoftware.code-spell-checker",
+  "wix.vscode-import-cost"
+]

@@ -1,0 +1,72 @@
+{
+  "$help": "https://aka.ms/terminal-documentation",
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "actions": [],
+  "copyFormatting": "none",
+  "copyOnSelect": false,
+  "defaultProfile": "{a58240f6-df5d-5da3-946e-d951da94cfcd}",
+  "keybindings": [
+    {
+      "id": "Terminal.CopyToClipboard",
+      "keys": "ctrl+c"
+    },
+    {
+      "id": "Terminal.PasteFromClipboard",
+      "keys": "ctrl+v"
+    },
+    {
+      "id": "Terminal.FindText",
+      "keys": "ctrl+shift+f"
+    },
+    {
+      "id": "Terminal.DuplicatePaneAuto",
+      "keys": "alt+shift+d"
+    }
+  ],
+  "language": "en-US",
+  "newTabMenu": [
+    {
+      "type": "remainingProfiles"
+    }
+  ],
+  "profiles": {
+    "defaults": {},
+    "list": [
+      {
+        "colorScheme": "ViraTheme",
+        "font": {
+          "face": "FiraCode Nerd Font",
+          "size": 15
+        },
+        "guid": "{a58240f6-df5d-5da3-946e-d951da94cfcd}",
+        "hidden": false,
+        "name": "Ubuntu-24.04",
+        "source": "Microsoft.WSL"
+      }
+    ]
+  },
+  "schemes": [
+    {
+      "name": "ViraTheme",
+      "background": "#263238",
+      "foreground": "#D8DFDF",
+      "black": "#000000",
+      "red": "#F07178",
+      "green": "#C3E88D",
+      "yellow": "#FFCB6B",
+      "blue": "#82AAFF",
+      "purple": "#C792EA",
+      "cyan": "#89DDFF",
+      "white": "#FFFFFF",
+      "brightBlack": "#546E7A",
+      "brightRed": "#F07178",
+      "brightGreen": "#C3E88D",
+      "brightYellow": "#FFCB6B",
+      "brightBlue": "#82AAFF",
+      "brightPurple": "#C792EA",
+      "brightCyan": "#89DDFF",
+      "brightWhite": "#FFFFFF"
+    }
+  ],
+  "themes": []
+}
